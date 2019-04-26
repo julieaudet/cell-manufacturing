@@ -1,5 +1,5 @@
 # cell-manufacturing
-Code used in: On-demand serum-free media formulations for human hematopoietic cell expansion using a high dimensional search algorithm” by Kim and Audet, Communications Biology (accepted Nov 28, 2018)
+Code used in: On-demand serum-free media formulations for human hematopoietic cell expansion using a high dimensional search algorithm” by Kim and Audet, Communications Biology (accepted Nov 28, 2018) https://rdcu.be/bjxAg
 
 
 High Dimensional-Differential Evolution (HD-DE) by Michelle Kim and Julie Audet (University of Toronto)
